@@ -16,11 +16,11 @@ owner:
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
+douban_username: dyylongma@gmail.com   # 你的豆瓣id
+twitter_username:  
 github_username: 
 facebook_username: 
-weibo_username: 
+weibo_username: Evans_呢喃
 zhihu_username: 
 
 # Build settings  
